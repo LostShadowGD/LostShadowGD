@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LostShadowGD
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning HTML.
-- 😄 Pronouns: they/them
+- 🌱 I’m currently learning HTML and GDScript.
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I have 3 cats!
 
 <!---
