@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LostShadowGD
-- 👀 I’m interested in coding.
+- 👀 I’m interested in photography.
 - 🌱 I’m currently learning HTML and GDScript.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have 3 cats!
